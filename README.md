@@ -1,7 +1,11 @@
 ![Header](https://github.com/YagYk/YagYk/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Yagyansh Khandelwal</h1>
 <h3 align="center">✨ AI Enthusiast | Problem Solver | Code Alchemist ✨ Welcome to my GitHub corner, where Python scripts dream, projects come to life, and ideas transform into innovation! Whether it’s crafting solutions for real-world problems or experimenting with cutting-edge tech, this is where my coding journey takes shape.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw15W7HSXUl4j6xOA3Xn5cLL&ust=1734526224721000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwixiYzt666KAxWkbGwGHWkPIj8QjRx6BAgAEBg">
+<video width="400" controls>
+  <source src="https://github.com/YagYk/YagYk/raw/main/n8agw6z2smyb1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yagyk&label=Profile%20views&color=0e75b6&style=flat" alt="yagyk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yagyk" alt="yagyk" /></a> </p>
