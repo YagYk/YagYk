@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **FastAPI, React.js, Docker**
 
-- 💬 Ask me about **React-Redux**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **yk7197@srmist.edu.in**
 
