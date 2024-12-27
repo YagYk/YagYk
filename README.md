@@ -1,6 +1,6 @@
 ![Header](https://github.com/YagYk/YagYk/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Yagyansh Khandelwal</h1>
-<h3 align="center">✨ AI Enthusiast | Problem Solver | Code Alchemist ✨ Welcome to my GitHub corner, where Python scripts dream, projects come to life, and ideas transform into innovation! Whether it’s crafting solutions for real-world problems or experimenting with cutting-edge tech, this is where my coding journey takes shape.</h3>
+<h3 align="center">✨ AI Enthusiast | Problem Solver | Code Alchemist ✨ Welcome to my GitHub corner, where Python scripts dream, projects come to life, and ideas transform into innovation! Whether it’s crafting solutions for real-world problems or experimenting with cutting-edge tech, This is where my coding journey takes shape.</h3>
 
 
 <p align="center">
