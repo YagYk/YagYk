@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://twitter.com/33yagyanshk" target="blank"><img src="https://img.shields.io/twitter/follow/33yagyanshk?logo=twitter&style=for-the-badge" alt="33yagyanshk" /></a> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning FastAPI, React.js, Docker<br>💬 Ask me about React<br>📫 How to reach me yk7197@srmist.edu.in
+🌱 I’m currently learning FastAPI, React.js, Docker<br>💬 Ask me about React<br>📫 How to reach me yk7197@srmist.edu.in ] yagyanshk.33@gmail.com
 
 
 ## 🌐 Socials:
